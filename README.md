@@ -1,4 +1,8 @@
 # Ellipdf
+## Description du projet :
+Ce projet est divisé en deux parties :
+- Ellipdf, qui contient une application Angular Universal ( SSR )
+- Pandoc, qui est l'espace de travail dans lequel effectuer les commandes relatives à pandoc, ainsi qu'à l'avenir, ajouter différents composants (footer, header) et templates.
 
 ## Lancement projet angular :
 Ce projet utilise les fonctionnalités SSR d'Angular. Pour fonctionner, 2 bundles doivent être générés ( et regénérés à chaque modification) :
